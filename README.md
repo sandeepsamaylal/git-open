@@ -1,1 +1,1 @@
-# git-open course
+# git-open course work
